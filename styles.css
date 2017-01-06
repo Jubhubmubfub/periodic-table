@@ -8,9 +8,10 @@ html {
   font-size: 12px;
 }
 #wrapper {
-  width:900px;
+  width:880px;
   height: 475px;
   background-color:#EEEEEE;
+  padding-left:5px;
 }
 
 #header {
@@ -116,4 +117,5 @@ h2 {
   padding: 0px;
   margin: 0px;
   color: #1913B6;
+  font-weight: normal;
 }
